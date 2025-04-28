@@ -1,0 +1,7 @@
+@layer utilities {
+    .bg-gradient-custom {
+      background: radial-gradient(circle at top left, #9ab1ee 20%, transparent 40%),
+                  radial-gradient(circle at top right, #020245 20%, transparent 70%);
+      background-blend-mode: screen;
+    }
+  }
