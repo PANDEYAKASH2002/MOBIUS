@@ -1,12 +1,53 @@
 # React + Vite
+# MobiusEngine Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a fully responsive landing page clone of the **MobiusEngine.ai** website, developed as part of a take-home assignment.
 
-Currently, two official plugins are available:
+The project was built with **React.js** and **Tailwind CSS**, ensuring a modern, scalable, and maintainable frontend structure.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live URL
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 [View Live Site](https://mobius-tawny.vercel.app/)
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** — Frontend framework
+- **Vite** — Fast build tool for React
+- **Tailwind CSS** — Utility-first CSS framework
+- **JavaScript (ES6+)** — Core scripting language
+- **Vercel** — Deployment platform
+
+---
+
+## 📦 Installation & Setup Instructions
+
+Follow these steps to run the project locally:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/PANDEYAKASH2002/MOBIUS.git
+
+2.Navigate to the project directory:
+  bash
+  cd mobius
+3.Install dependencies:
+  npm i 
+
+4. Start the development server:
+   npm run dev
+5. Open in browser: Navigate to http://localhost:5173/
+
+  KEY FEATURES
+Fully Responsive Design — Optimized for mobile, tablet, and desktop views.
+
+Pixel-Perfect UI — Matches Figma design closely with accurate spacing, fonts, and colors.
+
+Component-Based Architecture — Clean and maintainable React components.
+
+Fast Performance — Built with Vite and optimized build process.
+
+Live HTTPS Hosting — Deployed securely on Vercel.     
